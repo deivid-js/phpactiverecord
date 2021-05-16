@@ -1,0 +1,15 @@
+{
+  "name": "deivid-js/phpactiverecord",
+  "description": "",
+  "type": "project",
+  "require-dev": {
+    "symfony/var-dumper": "^5.2"
+  },
+  "authors": [
+    {
+      "name": "Deivid Staehr",
+      "email": "deividstaehr@hotmail.com"
+    }
+  ],
+  "require": {}
+}
